@@ -1,2 +1,2 @@
 # platzigit
-Curso de Gi&amp;GitHub
+Curso de Git&amp;GitHub
